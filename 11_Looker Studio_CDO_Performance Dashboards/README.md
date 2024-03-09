@@ -1,7 +1,9 @@
 # eCommerce Fashion Dashboards
 
 ## CDO
-![11_Power BI_CDO  Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/fe5b3e65-4888-4bc9-a507-2b2b23ce231c)
+https://lookerstudio.google.com/u/0/reporting/c0614853-09bb-44aa-9a5c-0fd893d03ae5/page/7TUsD
+
+![CDO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/379b270a-ca86-4dc6-836b-fe309cac5d3c)
 
 
 
