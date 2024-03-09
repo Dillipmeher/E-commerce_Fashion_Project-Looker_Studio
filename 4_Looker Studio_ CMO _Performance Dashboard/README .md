@@ -1,7 +1,10 @@
 # eCommerce Fashion Dashboards
 
 ## CMO
-![4_Power BI_ CMO _Performance Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/9cab0920-bcff-4cf9-bedc-73123ccea3ba)
+https://lookerstudio.google.com/reporting/ea826e13-2ab8-4177-a671-299cf068f5df/page/7TUsD
+
+![CMO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/9a68a6f9-a5b5-4ec6-8b3e-f6b0249e0346)
+
 
 
 
