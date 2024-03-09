@@ -1,7 +1,12 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![image](https://github.com/Dillipmeher/Project/assets/143451788/69c99b28-9c3f-41d4-b5c6-50cd8f0dc399)
+https://lookerstudio.google.com/reporting/00fe280e-f2f7-4c64-9ea9-f5aa9e5e2710/page/7TUsD
+
+![CEO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/29f0d3c3-46cc-40e8-b342-e647f3f91b6d)
+
+
+
 
 
 ### 6 Thinking Hats
