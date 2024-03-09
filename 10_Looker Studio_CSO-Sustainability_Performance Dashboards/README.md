@@ -1,7 +1,10 @@
 # eCommerce Fashion Dashboards
 
 ## CSO-Sustainability
-![10_Power BI_CSO-Sustainability Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/89a34f5e-d5dc-49a4-8519-950180d292d9)
+https://lookerstudio.google.com/reporting/bbd0cc28-7745-45d4-a707-13a739f87e77/page/7TUsD
+
+![CSO-Sustainability Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/9fd52a32-9798-495f-9757-810c4e5ed840)
+
 
 
 
