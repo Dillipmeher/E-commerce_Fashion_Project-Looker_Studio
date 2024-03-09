@@ -1,7 +1,10 @@
 # eCommerce Fashion Dashboards
 
 ## CFO
-![CFO_Performance_Dashboard_Power BI](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/d368ab2d-5809-45c8-ab16-e99eff3df69d)
+https://lookerstudio.google.com/reporting/d51c3d4d-c369-4a1f-aa5f-2ad3c4d4248a/page/7TUsD
+
+![CFO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/69349a4b-4262-45de-8e0c-ab6c1de70a2b)
+
 
 
 
