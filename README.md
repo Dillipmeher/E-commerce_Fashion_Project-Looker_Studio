@@ -86,26 +86,30 @@ Difference between OKR and KPI
 
 # CEO Performance Dashboard
 
-![CEO_Score Card_Power BI](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/ae55becc-b21b-47d2-9cf1-057ff061f67b)
+![CEO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/743a535a-7a31-4592-b98a-412dda2a13d5)
+
 
 
 
 
 # CFO Performance Dashboard
 
-![CFO-Score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/6df34e55-b24b-4b7f-a65f-488a2ec7674b)
+![CFO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/5cbe4342-be4a-4aaa-9109-8cb5550f5397)
+
 
 
 
 
 # COO Performance Dashboard
 
-![COO_score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/d1973407-aab2-4844-a169-e9a08d79a630)
+![COO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/35c634d1-905d-4f9e-825e-2c95b0c5370a)
+
 
 
 # CMO Performance Dashboard
 
-![CMO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/9fc78024-060d-456c-848f-970ad6668bc6)
+![CMO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/96a20d00-efa8-4d1a-92b8-95e2f7e75ff6)
+
 
 
 
@@ -113,14 +117,16 @@ Difference between OKR and KPI
 
 # CTO Performance Dashboard
 
-![CTO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/861ada4e-331a-4e9c-9881-7e80870c4aee)
+![CTO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/2247f464-9b48-488e-a028-f1176144e2d6)
+
 
 
 
 
 # CSO Performance Dashboard
 
-![CSO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/3a024f86-b8f7-4e76-b46d-432edb40ed69)
+![CSO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/ccffb06d-5d03-49e6-a037-e15e706edb1c)
+
 
 
 
@@ -128,7 +134,8 @@ Difference between OKR and KPI
 
 # CPO Performance Dashboard
 
-![CPO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/66f0ffd3-bb64-4b91-8926-fc6c639950d4)
+![CPO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/25186576-127e-4136-9f6e-a68a51c21863)
+
 
 
 
@@ -136,7 +143,8 @@ Difference between OKR and KPI
 
 # CCO Performance Dashboard
 
-![CCO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/5a3be883-b5db-4e1b-aafb-ab4bc3895ad8)
+![CCO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/b737e862-bd87-4d4e-b7bf-85315a2c6d37)
+
 
 
 
@@ -144,7 +152,8 @@ Difference between OKR and KPI
 
 # CPO-HR Performance Dashboard
 
-![CPO-HR Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/923259b1-3339-46a2-a36c-b3d9ab74cb7d)
+![CPO-HR Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/a3a880d3-112a-4311-b773-da5b0da1cb09)
+
 
 
 
@@ -152,7 +161,8 @@ Difference between OKR and KPI
 
 # CSO- Sustainability Performance Dashboard
 
-![CSO-Sustainablility Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/2ce1b2e2-8db7-45bc-b62e-e53a3a7ef79f)
+![CSO-Sustainability Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/83546436-40f4-423b-990a-424e0f40a186)
+
 
 
 
@@ -160,7 +170,8 @@ Difference between OKR and KPI
 
 # CDO Performance Dashboard
 
-![CDO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/dae138d0-0299-4340-86ce-e319fd350f51)
+![CDO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/6d9b3ebd-4334-4d14-a173-40db1e5a7355)
+
 
 
 
