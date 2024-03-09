@@ -1,7 +1,10 @@
 # eCommerce Fashion Dashboards
 
 ## CPO
-![CPO Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/2b42bd82-7070-4f06-a23e-c2c7028b8ea8)
+https://lookerstudio.google.com/reporting/49cb7adb-0585-4ef3-9964-1fd689aac64f/page/7TUsD
+
+![CPO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/34559de0-54fd-4df6-af6b-76a82a136979)
+
 
 
 ### 6 Thinking Hats
