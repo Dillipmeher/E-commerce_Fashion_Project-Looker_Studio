@@ -1,7 +1,10 @@
 # eCommerce Fashion Dashboards
 
 ## CTO
-![5_Power BI_CTO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/bdc6044a-05b8-4648-b764-18454615ff55)
+https://lookerstudio.google.com/reporting/651d1ed6-82fe-4c06-906d-e287bb792cd3/page/7TUsD
+
+![CTO-Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Looker_Studio/assets/143451788/a4e44928-21b8-4121-85fb-c77df448a4b3)
+
 
 
 
